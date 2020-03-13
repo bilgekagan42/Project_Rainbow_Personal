@@ -1,0 +1,13 @@
+
+article {
+    border: 1px solid black;
+    display: flex;
+}
+
+section,
+aside {
+    border: 1px solid red;
+    padding: 5px;
+    flex: 1;
+}
+
